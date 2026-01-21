@@ -1,11 +1,24 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# BanglaLogic.com
 
-  <h1>Built with AI Studio</h2>
+**Think Clear, Argue Better.**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+BanglaLogic is a web application designed to teach critical thinking and logical reasoning within the context of Bangladeshi culture. It helps users identify and counter logical fallacies in politics, family arguments, and social media interactions.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Features
 
-</div>
+- **AI Logic Scanner**: Analyze arguments in Bangla or English to identify fallacies like *Ad Hominem* (Byakti Akromon) or *Strawman*.
+- **Logic Battles**: Interactive scenarios to practice logical responses to common emotional manipulations (e.g., career choices, viral comments).
+- **Fallacy Encyclopedia**: Learn about logical fallacies with culturally relevant examples and rebuttals.
+
+## Technologies Used
+
+- React 19
+- TypeScript
+- Tailwind CSS
+- Gemini API
+- Font Awesome
+
+## Philosophy
+
+We believe in revolutionizing the mindset by replacing emotional reactions with logical analysis. "চিন্তা করুন যুক্তিতে, কথা বলুন শক্তিতে" (Think with logic, speak with strength).
